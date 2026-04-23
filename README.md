@@ -5,24 +5,6 @@
 **A comprehensive web-based file storage system featuring hybrid cryptography, LSB steganography, and secure multi-user file sharing.**
 
 </div>
-
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Technology Stack](#-technology-stack)
-- [System Architecture](#-system-architecture)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [API Documentation](#-api-documentation)
-- [Security](#-security)
-- [Screenshots](#-screenshots)
-- [Documentation](#-documentation)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 ## 🌟 Overview
 
 SecureVault is a secure file storage and sharing platform that implements military-grade encryption combined with steganography to protect sensitive data. The system splits files into three blocks, encrypts each with a different algorithm (AES, 3DES, Blowfish), and hides the decryption keys inside images using LSB steganography.
